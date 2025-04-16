@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Dhia</h1>
-<p>passionate about exploring new technologies and developing innovative solutions. </p>
+<p>ESPRIT ENGINEERING STUDENT
+passionate about exploring new technologies and developing innovative solutions. </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
